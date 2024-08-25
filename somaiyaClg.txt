@@ -1,0 +1,60 @@
+POST /register HTTP/2
+Host: grievances.somaiya.edu
+Content-Type: multipart/form-data; boundary=----------YWJkMTQzNDcw
+X-Requested-With: XMLHttpRequest
+Referer: https://grievances.somaiya.edu/
+Cookie: ci_session=2eckhqr5tk7vrllta1ebvilvt3rl1f4o
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding: gzip,deflate,br
+Content-Length: 1124
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4512.0 Safari/537.36
+
+------------YWJkMTQzNDcw
+Content-Disposition: form-data; name="button"
+
+Login with Facebook
+------------YWJkMTQzNDcw
+Content-Disposition: form-data; name="captcha"
+
+1
+------------YWJkMTQzNDcw
+Content-Disposition: form-data; name="email"
+
+sample@email.tst
+------------YWJkMTQzNDcw
+Content-Disposition: form-data; name="first_name"
+
+wUmrLVWz
+------------YWJkMTQzNDcw
+Content-Disposition: form-data; name="id"
+
+3
+------------YWJkMTQzNDcw
+Content-Disposition: form-data; name="last_name"
+
+wUmrLVWz
+------------YWJkMTQzNDcw
+Content-Disposition: form-data; name="mobile"
+
+987-65-4329
+------------YWJkMTQzNDcw
+Content-Disposition: form-data; name="otp_to_be_validated"
+
+01/01/1967
+------------YWJkMTQzNDcw
+Content-Disposition: form-data; name="otpval"
+
+1
+------------YWJkMTQzNDcw
+Content-Disposition: form-data; name="password"
+
+g00dPa$$w0rD
+------------YWJkMTQzNDcw
+Content-Disposition: form-data; name="password_confirmation"
+
+g00dPa$$w0rD
+------------YWJkMTQzNDcw
+Content-Disposition: form-data; name="user_type_id"
+
+1
+------------YWJkMTQzNDcw--
