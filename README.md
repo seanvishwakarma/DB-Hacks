@@ -21,7 +21,7 @@ These files contain the HTTP requests captured during the penetration testing.
 
 ## Clone Repository
 ```bash
-git clone https://github.com/seanvishwakarma/sql-database-hack.git
+git clone https://github.com/seanvishwakarma/sqlmap-database-hack.git
 ```
 
 ## How to Use
