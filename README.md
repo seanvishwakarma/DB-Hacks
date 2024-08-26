@@ -1,4 +1,4 @@
-# College Website Database Hacking with SQLMap
+# Hacking Databases using SQLMap
 
 This repository showcases how I successfully tested the security of these databases by exploiting SQL vulnerabilities. The tools I used 
  [SQLMap](http://sqlmap.org/) and [Acunetix](https://www.acunetix.com/).
