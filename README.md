@@ -20,7 +20,7 @@ These files contain the HTTP requests which is going to use to connect to the we
 
 ## Clone Repository
 ```bash
-git clone https://github.com/seanvishwakarma/sqlmap-database-hack.git
+git clone https://github.com/seanvishwakarma/database-hack.git
 ```
 
 ## How to Use
