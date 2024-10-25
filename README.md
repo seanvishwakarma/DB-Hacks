@@ -17,7 +17,7 @@ You will also need the request files provided in this repository:
 - `thakur.txt`
 - `teachus.txt`
 
-These files contain the HTTP requests captured during the penetration testing.
+These files contain the HTTP requests which is going to use to connect to the web server
 
 ## Clone Repository
 ```bash
